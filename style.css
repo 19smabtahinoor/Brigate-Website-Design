@@ -981,13 +981,14 @@ aside.sidebar {
 
 
 .rightsideideastitle p {
-	color: white;
-	font-size: 16px;
-	font-family: Work Sans;
-	padding: 0px 70;
-	line-height: 1.5;
-	font-weight: 500;
-	padding-bottom: 20px;
+    color: white;
+    font-size: 16px;
+    font-family: Work Sans;
+    line-height: 1.5;
+    font-weight: 500;
+    padding-bottom: 20px;
+    width: 532px;
+    padding-left: 65px;
 }
 
 .rightsideidescontenticontitl {
@@ -1916,19 +1917,20 @@ footer.footerfin {
 }
 
 .inputboxes input:last-child {
-	padding: 15px;
-	border-radius: 35px;
-	background: black;
-	width: 105px;
-	border: none;
-	color: white;
-	font-family: 'Work Sans', 'sans-serif';
-	outline: none;
-	font-size: 15px;
-	font-weight: 600;
-	transition: 0.2s;
-	margin-top: -48px;
-	margin-left: 212px;
+    padding: 15px;
+    border-radius: 35px;
+    background: black;
+    width: 105px;
+    border: none;
+    color: white;
+    font-family: 'Work Sans', 'sans-serif';
+    outline: none;
+    font-size: 15px;
+    font-weight: 600;
+    transition: 0.2s;
+    top: -48px;
+    left: 213px;
+    position: relative;
 }
 
 
